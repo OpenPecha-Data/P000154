@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000154
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཕུང་ཁམས་སྐྱེ་མཆེད་ཀྱི་རྣམ་གཞག་ཇི་སྙེད་ཤེས་བྱའི་སྒོ་འབྱེད་ཅེས་བྱ་བ་བཞུགས་སོ།
     །
   authors: []
-  sku: IBA-GR-03-1
   layers:
   - book_title
   - quotation
   - yigchung
+  id: IBA-GR-03-1
 web_metadata:
   title:
     en: Opening the Door to All Fields of Knowledge:A Presentation on the Aggregates,
